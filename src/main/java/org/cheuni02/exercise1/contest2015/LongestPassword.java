@@ -41,9 +41,4 @@ public class LongestPassword {
             throw new NoSuchElementException("All passwords are invalid, Get a life mate");
         }
     }
-
-    public static void main(String[] args) {
-        String S = "!@£$%^&*()_+test123 !@£$%^&*()_+play12345 !@£$%^&*()_+marvin1234567  !@£$%^&*()_+codility321";
-        System.out.println(new LongestPassword().solution(S));
-    }
 }
