@@ -1,4 +1,4 @@
-package org.cheuni02.lessons.lesson2.arrays;
+package org.cheuni02.lessons.lesson2.arrays.LoopWrap;
 
 import java.util.ArrayList;
 import java.util.Arrays;
